@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activities.MovieDetailActivity"
+    tools:showIn="@layout/activity_movie_detail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/textViewYear"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:padding="6dp"
+                android:textSize="20sp"
+                tools:text="2017" />
+
+            <TextView
+                android:id="@+id/textViewAverage"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:padding="6dp"
+                android:textSize="20sp"
+                tools:text="74%" />
+
+            <ImageView
+                android:id="@+id/imageViewSave"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="38dp"
+                android:padding="6dp"
+                app:srcCompat="@drawable/ic_save" />
+
+            <ImageView
+                android:id="@+id/imageViewPlayYoutube"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="38dp"
+                android:padding="6dp"
+                app:srcCompat="@drawable/ic_play_youtube" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:paddingLeft="6dp"
+            android:text="Sinopse"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/textViewSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            tools:text="Quando as crianças começam a desaparecer na cidade de Derry, no Maine, as crianças do bairro se unem para atacar Pennywise, um palhaço malvado, cuja história de assassinato e violência remonta há séculos." />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

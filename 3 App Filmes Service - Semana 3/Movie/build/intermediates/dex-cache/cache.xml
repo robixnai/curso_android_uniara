@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/glide-4.2.0_f592926765b3cf43d93c9b3167cd5ce98a62f9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d6fc29f2af61d8fdc31018416040c560423c4b3">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/annotations-4.2.0_93e10d56ec69866bdbe3e33bc26240e62a5c0c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/disklrucache-4.2.0_335ff89c886bab45dd1fb58489066e1c478893e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_7731605081a8a1c32c9a2e4a7b9ba3c080d1e625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/gifdecoder-4.2.0_eee63e5c6c60bc2d4ad04a934288597215256f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_337e562ccf5cb2c1672e4be5524e2e6c1157d85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/7d6ea04577393a91726b056eab148c28bc3f4d86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_1fecf44fb8a1e7b322a16f6a1e55bce08003dcac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/gson-2.8.2_7127200af4d0e4146a167ca40689eac6746b0352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/a185a9dcc5490d7ab5d604c7dd5e048b8704c5c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_ff13c0593b70de6de581781352c8c818bc5a60c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/d8016eb02a6dcabcd79ae8cbf0521a94b433cc58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_e7adbda4f299760d07c85ca5b50c562b7734167a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/3a4fc2c5a97dcc3fc9044e609060e911882a9785/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_e8a250dbb573ee9a8a006ec1d9ae05b6810d615a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/46a90b4c7213533640cf45dfa250491a2887be7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_ed5320a57b98e1e4a9f87b9fae12434e08a6cf54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/6f5614ed930da99dcb14050b4d735918c6779fb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_2a8d085b64bd2c175d2323fec7e7874c8f99f318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/f3405e95d9b2b5403ae9a236635d7e65a1e6db7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_c74e1e532c4de39efa96fe624a66e318a5a7f0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/d64ac209e8cdfccc71bff68323e6a213eccb10ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_800dbb5d6930b3151b47fe55c2b0c04967d3f85c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/bf26db72a195b865586a7cc26cd57bed1891c693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_b772d220a8becd464c096c10886369ae5cf25722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c9faffdfcc19da2575dc4e04f51c081a2403c59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/8f9ff4bf6cdf3bd7b1c2a9ccdc4d7caed0641562/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_8734ef5c2f59cf2b71d03e834a8c1a9caffe846c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_2927e33e468a23b24ec0291f63641ef86c4cf3e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/c0879beafa0697fe60920fb47d02c898e83a217a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_19df01d1db9ad27d3ea1085af5ca14c74551c022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/c51d57ee8aa2566763bad1710a36dfe8006ce77b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_53122b760a587516e2660e272ad6fe60752463e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_edb3265e1c136103e55b9d17beb35edc27a6ba23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robsonmoreira/.android/build-cache/f8581d3584d258c69474abc63a999c990b35d7e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Service/Movie/app/build/intermediates/pre-dexed/debug/classes_09f32bc98f481150a9da60db75f4e9346f2eb519.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_afe268209a416509b9c74dce95d79a47378138a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/d8016eb02a6dcabcd79ae8cbf0521a94b433cc58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7adbda4f299760d07c85ca5b50c562b7734167a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/6f5614ed930da99dcb14050b4d735918c6779fb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a8d085b64bd2c175d2323fec7e7874c8f99f318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/bf26db72a195b865586a7cc26cd57bed1891c693/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b772d220a8becd464c096c10886369ae5cf25722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/8f9ff4bf6cdf3bd7b1c2a9ccdc4d7caed0641562/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8734ef5c2f59cf2b71d03e834a8c1a9caffe846c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/7d6ea04577393a91726b056eab148c28bc3f4d86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fecf44fb8a1e7b322a16f6a1e55bce08003dcac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/f8581d3584d258c69474abc63a999c990b35d7e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09f32bc98f481150a9da60db75f4e9346f2eb519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/a185a9dcc5490d7ab5d604c7dd5e048b8704c5c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff13c0593b70de6de581781352c8c818bc5a60c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/3a4fc2c5a97dcc3fc9044e609060e911882a9785/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8a250dbb573ee9a8a006ec1d9ae05b6810d615a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="abaf30950a6d8cea8a56acfcb3eab0dc44db472d">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_17e7739fb32050a4a8f2ce41f0cef4d7b4a91c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/f3405e95d9b2b5403ae9a236635d7e65a1e6db7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c74e1e532c4de39efa96fe624a66e318a5a7f0f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/d64ac209e8cdfccc71bff68323e6a213eccb10ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_800dbb5d6930b3151b47fe55c2b0c04967d3f85c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef550297859890e550df1fa4ae60290517d40366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/46a90b4c7213533640cf45dfa250491a2887be7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed5320a57b98e1e4a9f87b9fae12434e08a6cf54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/c0879beafa0697fe60920fb47d02c898e83a217a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19df01d1db9ad27d3ea1085af5ca14c74551c022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robsonmoreira/.android/build-cache/c51d57ee8aa2566763bad1710a36dfe8006ce77b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/robsonmoreira/Desktop/Curso Android Uniara/Material Design/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53122b760a587516e2660e272ad6fe60752463e9/classes.dex" />
+    </item>
+
+</items>
