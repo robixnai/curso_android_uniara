@@ -24,6 +24,7 @@ Projeto desenvolvido no curso de Desenvolvimento Mobile com Android (UNIARA)
   - Salvar dados em Bancos de Dados SQL
 - Publicação na Play Store
   
+  
 <b>Referências:</b>
   - https://developer.android.com/index.html
   - https://developer.android.com/training/material/theme.html#ColorPalette
