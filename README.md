@@ -17,6 +17,7 @@ Projeto desenvolvido no curso de Desenvolvimento Mobile com Android (UNIARA)
 - Material Design
 - Serviços e API REST
   
+  
 <b>Semana 4:</b>
 - Armazenamento no Android
   - Conjuntos de Valor-Chave
