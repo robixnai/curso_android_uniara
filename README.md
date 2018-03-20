@@ -20,7 +20,7 @@ Projeto desenvolvido no curso de Desenvolvimento Mobile com Android (UNIARA)
   
 <b>Semana 4:</b>
 - Armazenamento no Android
-  - Conjuntos de Valor-Chave
+  - Conjuntos de Chave-Valor
   - Salvar em Arquivos
   - Salvar dados em Bancos de Dados SQL
 - Publicação na Play Store
